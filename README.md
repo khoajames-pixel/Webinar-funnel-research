@@ -2,7 +2,7 @@
 
 ## Why This Topic
 
-Webinars remain one of the most effective growth levers for B2B SaaS companies. They combine education, lead generation, and community-building in a single format. Yet most SaaS teams struggle to design a full funnel — from promotion and registration to engagement and post-event conversion. This project explores how leading practitioners build webinar funnels from scratch.
+Webinars remain one of the most efficient levers for growth in B2B SaaS companies. They combine education, lead generation, and community-building all in one format. But most SaaS teams struggle to design a full funnel, from promotion to registration, engagement, and conversion after the event. In this project, I will analyze how the top experts in the world build webinar funnels from scratch.
 
 ## What This Repository Contains
 
