@@ -17,7 +17,7 @@ Webinars remain one of the most effective growth levers for B2B SaaS companies. 
 I optimized for **signal over volume** — 10 strong voices, not 50 generic ones. Selection rules:
 
 - **Practitioners, not commentators** — every source actively runs webinars for themselves or paying B2B SaaS clients, with measurable results.
-- **Full coverage of the discipline** — platform leaders (ON24, LiveWebinar, WebinarNinja), demand-gen strategists (Chris Walker, Dave Gerhardt, Daniel Murray), SaaS operators turned educators (Ryan James, Sangram Vajre), and agencies specializing in webinar funnels (Intent Amplify).
+- **Full coverage of the discipline** — platform leaders (ON24, LiveWebinar, WebinarNinja, Goldcast), demand-gen strategists (Chris Walker, Dave Gerhardt, Daniel Murray), SaaS operators turned educators (Ryan James, Sangram Vajre), and agencies specializing in webinar funnels (Intent Amplify).
 - **Mixed source types** — LinkedIn posts, YouTube transcripts, and SaaS platform case studies.
 
 Every expert was verified live (real profile, currently active) on **2026-06-12**.  
@@ -46,7 +46,7 @@ See **[research/sources.md](./research/sources.md)** for full rationale and link
 | Area | Status |
 |------|--------|
 | README & project structure | In progress |
-| Expert source list | Draft started |
+| Expert source list | Listed with links |
 | LinkedIn posts | Not started |
 | YouTube transcripts | Not started |
 | Other materials | Not started |

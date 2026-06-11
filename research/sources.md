@@ -7,70 +7,166 @@ Last verified: **2026-06-12**
 
 | # | Name / Company | Category | Primary Source Type | Status |
 |---|----------------|----------|---------------------|--------|
-| 1 | ON24 | Platform | Case studies, blog | To collect |
-| 2 | LiveWebinar | Platform | Guides, blog | To collect |
-| 3 | WebinarNinja | Platform | Guides, blog | To collect |
-| 4 | Chris Walker | Demand-gen strategist | LinkedIn, YouTube | To collect |
-| 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, YouTube | To collect |
-| 6 | Daniel Murray | Demand-gen strategist | LinkedIn, YouTube | To collect |
-| 7 | Ryan James | SaaS operator / educator | LinkedIn, YouTube | To collect |
-| 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, YouTube | To collect |
-| 9 | Intent Amplify | Agency | Case studies, blog | To collect |
-| 10 | _TBD_ | _TBD_ | _TBD_ | To add |
+| 1 | ON24 | Platform | Case studies, blog, benchmarks | Listed |
+| 2 | LiveWebinar | Platform | Guides, blog | Listed |
+| 3 | WebinarNinja | Platform | Guides, blog, courses | Listed |
+| 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
+| 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, podcast, newsletter | Listed |
+| 6 | Daniel Murray | Demand-gen strategist | LinkedIn, podcast, social | Listed |
+| 7 | Ryan James | SaaS operator / educator | LinkedIn, YouTube | Listed |
+| 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, podcast, book | Listed |
+| 9 | Intent Amplify | Agency | Webinars, case studies, research | Listed |
+| 10 | Goldcast | Platform | Blog, guides, customer stories | Listed |
+
+---
 
 ## Source Details
 
 ### 1. ON24
-- **Why included:** Enterprise webinar platform with published B2B funnel playbooks and benchmarks.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Enterprise webinar and digital experience platform. Publishes annual benchmark reports, customer stories, and demand-gen playbooks for B2B teams.
+- **Why chosen:** One of the most data-rich sources in the space — ON24 publishes webinar benchmarks, ROI frameworks, and customer stories showing how B2B companies turn webinars into pipeline. Strong for funnel design, engagement tactics, and post-event nurture.
+- **LinkedIn:** [https://www.linkedin.com/company/on24](https://www.linkedin.com/company/on24)
+- **Site:** [https://www.on24.com/](https://www.on24.com/)
+- **Content types:** Benchmark reports, blog posts, customer stories, on-demand webinars.
+
+**Best content to collect:**
+- [ON24 Resource Center](https://www.on24.com/resources/)
+- [2026 Webinar Benchmarks Report](https://www.on24.com/resources/) _(search "Webinar Benchmarks" on site)_
+- [How to Calculate ROI on Webinars](https://www.on24.com/blog/how-to-calculate-roi-on-webinars/)
+
+---
 
 ### 2. LiveWebinar
-- **Why included:** Practical webinar setup and conversion-focused content for SaaS teams.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Webinar platform focused on live events, automation, and conversion for marketers and SaaS teams.
+- **Why chosen:** Practical, operator-friendly guidance on registration pages, reminders, follow-up sequences, and webinar promotion — useful for teams building a funnel from zero without enterprise complexity.
+- **LinkedIn:** [https://www.linkedin.com/company/livewebinar](https://www.linkedin.com/company/livewebinar)
+- **Site:** [https://www.livewebinar.com/](https://www.livewebinar.com/)
+- **Content types:** Blog guides, tutorials, product-led funnel examples.
+
+**Best content to collect:**
+- [LiveWebinar Blog](https://www.livewebinar.com/blog/)
+- Webinar promotion and follow-up guides _(collect from blog)_
+
+---
 
 ### 3. WebinarNinja
-- **Why included:** Operator-focused webinar marketing and funnel guidance.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Webinar platform and education brand for creators, marketers, and SaaS operators running live and automated webinars.
+- **Why chosen:** Strong practitioner angle — WebinarNinja combines software with marketing education, making it a good source for registration, presentation, and conversion tactics aimed at smaller SaaS teams.
+- **LinkedIn:** [https://www.linkedin.com/company/webinarninja](https://www.linkedin.com/company/webinarninja)
+- **Site:** [https://webinarninja.com/](https://webinarninja.com/)
+- **Content types:** Blog posts, courses, webinar marketing guides.
+
+**Best content to collect:**
+- [WebinarNinja Blog](https://webinarninja.com/blog/)
+- Webinar funnel and promotion guides _(collect from blog)_
+
+---
 
 ### 4. Chris Walker
-- **Why included:** Demand-gen frameworks that connect content, webinars, and pipeline.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Founder, Refine Labs. Leading voice in demand generation, dark social, and pipeline creation for B2B SaaS.
+- **Why chosen:** Chris Walker reframed how B2B SaaS measures marketing — emphasizing audience, content, and pipeline over vanity metrics. His frameworks connect thought leadership, live content (including webinars), and revenue in ways most generic webinar advice does not.
+- **LinkedIn:** [https://www.linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171/)
+- **Site:** [https://www.refinelabs.com/](https://www.refinelabs.com/)
+- **Content types:** LinkedIn posts, podcast episodes, Refine Labs blog content.
+
+**Best content to collect:**
+- [Refine Labs](https://www.refinelabs.com/)
+- LinkedIn posts on demand gen, content, and pipeline _(save to `research/linkedin-posts/`)_
+
+---
 
 ### 5. Dave Gerhardt
-- **Why included:** B2B marketing storytelling and audience-building tactics applicable to webinars.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Founder, Exit Five. Former CMO and B2B marketing leader focused on brand, storytelling, and community-led growth.
+- **Why chosen:** Dave Gerhardt is one of the clearest voices on B2B brand building and audience development — both critical for webinar promotion, registration, and post-event nurture. Strong on messaging, positioning, and making complex SaaS topics engaging.
+- **LinkedIn:** [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
+- **Site:** [https://www.exitfive.com/](https://www.exitfive.com/)
+- **Content types:** LinkedIn posts, Exit Five podcast, newsletter, event content.
+
+**Best content to collect:**
+- [Exit Five](https://www.exitfive.com/)
+- LinkedIn posts on B2B marketing and audience building _(save to `research/linkedin-posts/`)_
+
+---
 
 ### 6. Daniel Murray
-- **Why included:** Social-first B2B marketing insights, including webinar promotion patterns.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Founder, The Marketing Millennials. B2B marketer focused on social-first demand creation and modern marketing culture.
+- **Why chosen:** Daniel Murray sits at the intersection of social distribution and B2B marketing — highly relevant for webinar promotion on LinkedIn, short-form clips, and turning live events into ongoing content engines.
+- **LinkedIn:** [https://www.linkedin.com/in/itsdanielmurray/](https://www.linkedin.com/in/itsdanielmurray/)
+- **Site:** [https://themarketingmillennials.com/](https://themarketingmillennials.com/)
+- **Content types:** LinkedIn posts, podcast, short-form video, social playbooks.
+
+**Best content to collect:**
+- [The Marketing Millennials](https://themarketingmillennials.com/)
+- LinkedIn posts on social-led B2B promotion _(save to `research/linkedin-posts/`)_
+
+---
 
 ### 7. Ryan James
-- **Why included:** SaaS operator perspective on webinars as a growth channel.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** B2B SaaS marketing educator and operator sharing growth, content, and webinar-led demand tactics.
+- **Why chosen:** Included as a practitioner voice for SaaS operators — useful for understanding how smaller teams run webinars as a growth channel without enterprise budgets. Good complement to platform and strategist sources.
+- **LinkedIn:** [https://www.linkedin.com/in/ryanjames/](https://www.linkedin.com/in/ryanjames/)
+- **Site:** _Verify personal site or primary content hub before collection_
+- **Content types:** LinkedIn posts, YouTube breakdowns, operator-style playbooks.
+
+**Best content to collect:**
+- LinkedIn posts on SaaS growth and webinar promotion _(save to `research/linkedin-posts/`)_
+- YouTube videos on B2B marketing and webinars _(save to `research/youtube-transcripts/`)_
+
+> **Note:** "Ryan James" is a common name — verify this is the correct practitioner before collecting content.
+
+---
 
 ### 8. Sangram Vajre
-- **Why included:** ABM and demand-gen expertise relevant to webinar-led funnels.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+
+- **Role:** Co-founder, GTM Partners. Author, speaker, and ABM / demand-gen strategist for B2B SaaS.
+- **Why chosen:** Sangram Vajre helped popularize account-based marketing and GTM strategy for SaaS. His work is directly relevant to webinar funnels aimed at target accounts, buying committees, and pipeline activation — not just top-of-funnel registrations.
+- **LinkedIn:** [https://www.linkedin.com/in/sangram/](https://www.linkedin.com/in/sangram/)
+- **Site:** [https://gtm.partners/](https://gtm.partners/)
+- **Content types:** LinkedIn posts, podcast, books, GTM frameworks.
+
+**Best content to collect:**
+- [GTM Partners](https://gtm.partners/)
+- LinkedIn posts on ABM, demand gen, and GTM _(save to `research/linkedin-posts/`)_
+
+---
 
 ### 9. Intent Amplify
-- **Why included:** Agency specializing in webinar funnels for B2B SaaS clients.
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
 
-### 10. _TBD_
-- **Why included:** _Add rationale_
-- **Profile / link:** _Add URL_
-- **Best content to collect:** _Add links_
+- **Role:** B2B pipeline activation firm specializing in demand intelligence, buying-group mapping, webinars, roundtables, and sponsored research for SaaS and enterprise tech vendors.
+- **Why chosen:** Intent Amplify is one of the few agencies that explicitly productizes webinars as part of a broader demand and pipeline system — not as a standalone tactic. Strong source for how agencies design webinar-led funnels for B2B SaaS clients.
+- **LinkedIn:** [https://www.linkedin.com/company/intent-amplify/](https://www.linkedin.com/company/intent-amplify/)
+- **Site:** [https://intentamplify.com/](https://intentamplify.com/)
+- **Content types:** Webinars, panels, sponsored research, case studies, demand intelligence content.
+
+**Best content to collect:**
+- [Intent Amplify — Webinars & Panels](https://intentamplify.com/)
+- Case studies and client results pages _(save to `research/other/`)_
+
+---
+
+### 10. Goldcast
+
+- **Role:** B2B SaaS events and webinar platform built for marketer-led experiences, engagement, and pipeline impact.
+- **Why chosen:** Goldcast is purpose-built for B2B SaaS event-led growth — a strong modern complement to legacy webinar platforms. Useful for studying how SaaS companies design interactive webinars, post-event content repurposing, and event-to-pipeline workflows.
+- **LinkedIn:** [https://www.linkedin.com/company/goldcast/](https://www.linkedin.com/company/goldcast/)
+- **Site:** [https://www.goldcast.io/](https://www.goldcast.io/)
+- **Content types:** Blog posts, guides, customer stories, event-led growth playbooks.
+
+**Best content to collect:**
+- [Goldcast Blog](https://www.goldcast.io/blog)
+- Customer stories and event-led growth guides _(save to `research/other/`)_
+
+---
 
 ## Notes
 
-- Replace `_TBD_` and `_Add URL_` placeholders as you verify each source.
 - Save collected items into the matching folder under `research/`.
+- For individuals, prioritize primary content (LinkedIn, YouTube, blog) over third-party summaries.
+- Re-verify all links before final submission.
