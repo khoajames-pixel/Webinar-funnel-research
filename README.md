@@ -23,6 +23,16 @@ I optimized for **signal over volume** — 10 strong voices, not 50 generic ones
 Every expert was verified live (real profile, currently active) on **2026-06-12**.  
 See **[research/sources.md](./research/sources.md)** for full rationale and links.
 
+## Repository structure
+
+```
+research/
+  sources.md              # The 10 experts: links, dates, annotations, coverage map
+  linkedin-posts/         # Collected LinkedIn posts, one folder per author
+  youtube-transcripts/    # Collected video/podcast transcripts, one folder per author
+  other/                  # Reports, case studies, supporting material
+```
+
 ## What's Collected
 
 | Expert | LinkedIn posts (webinar-focused) | YouTube / podcast transcripts (webinar-focused) |
