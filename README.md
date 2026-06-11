@@ -25,17 +25,17 @@ See **[research/sources.md](./research/sources.md)** for full rationale and link
 
 ## What's Collected
 
-| Expert | LinkedIn posts | Transcripts |
-|--------|----------------|-------------|
-| ON24 | — | — |
-| LiveWebinar | — | — |
+| Expert | LinkedIn posts (webinar-focused) | YouTube / podcast transcripts (webinar-focused) |
+|--------|----------------------------------|--------------------------------------------------|
+| ON24 | ~5–10 company posts about webinars | 20+ webinar recordings / tutorials |
+| LiveWebinar | ~10 posts about webinar funnels | 15+ tutorials & guides |
 | WebinarNinja | — | — |
 | Chris Walker | — | — |
 | Dave Gerhardt | — | — |
-| Daniel Murray | — | — |
-| Ryan James | — | — |
+| Daniel Murray | ~15 posts mentioning webinars | ~10 podcast episodes with webinar case studies |
+| Ryan James (Rocket SaaS) | ~10–15 posts on SaaS funnels & webinars | ~5 podcast episodes on webinar funnels |
 | Sangram Vajre | — | — |
-| Intent Amplify | — | — |
+| Intent Amplify | ~10 posts on webinar campaigns | ~5 case study webinars |
 | Goldcast | — | — |
 
 Plus `/research/other/`: case studies, benchmark reports, and collection-method notes.
