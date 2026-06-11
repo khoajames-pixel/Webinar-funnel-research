@@ -165,6 +165,33 @@ Last verified: **2026-06-12**
 
 ---
 
+## Coverage Map
+
+Overall review of how the 10 sources cover the webinar funnel discipline and available material types.
+
+| Angle of the discipline | Experts |
+|-------------------------|---------|
+| Webinar platforms & infrastructure | ON24, LiveWebinar, WebinarNinja, Goldcast |
+| Benchmarks, ROI & funnel data | ON24, Goldcast |
+| Demand gen & strategy | Walker, Gerhardt, Murray, Vajre |
+| SaaS operator → practitioner | James |
+| ABM & buying committee targeting | Vajre |
+| Agency-led pipeline activation | Intent Amplify, James |
+| Webinar promotion & social distribution | Murray, Gerhardt, James |
+| Event-led growth (B2B SaaS) | Goldcast, ON24 |
+
+| Source type | Experts with material |
+|-------------|----------------------|
+| LinkedIn posts | all 10 |
+| Podcast transcripts | Gerhardt, Walker, Murray, James, Vajre |
+| YouTube / video transcripts | James, Murray, Walker |
+| Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Goldcast |
+| Case studies & client results | ON24, Goldcast, Intent Amplify, James |
+| Benchmark reports & research | ON24, Intent Amplify |
+| Webinars & live events | ON24, Intent Amplify, James |
+
+---
+
 ## Notes
 
 - Save collected items into the matching folder under `research/`.
