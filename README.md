@@ -29,12 +29,12 @@ See **[research/sources.md](./research/sources.md)** for full rationale and link
 |--------|----------------------------------|--------------------------------------------------|
 | ON24 | ~5–10 company posts about webinars | 20+ webinar recordings / tutorials |
 | LiveWebinar | ~10 posts about webinar funnels | 15+ tutorials & guides |
-| WebinarNinja | — | — |
-| Chris Walker | — | — |
-| Dave Gerhardt | — | — |
+| WebinarNinja | ~5–10 posts | 20+ tutorials & customer case studies |
+| Chris Walker (Refine Labs) | ~30 posts on webinars / demand-gen | ~20 podcast episodes with webinar strategy |
+| Dave Gerhardt (Exit Five) | ~20 posts on webinars / community events | ~10 podcast / webinar episodes |
 | Daniel Murray | ~15 posts mentioning webinars | ~10 podcast episodes with webinar case studies |
 | Ryan James (Rocket SaaS) | ~10–15 posts on SaaS funnels & webinars | ~5 podcast episodes on webinar funnels |
-| Sangram Vajre | — | — |
+| Sangram Vajre (Terminus / PEAK) | ~15 posts on webinars in ABM | ~10 podcast / webinar episodes |
 | Intent Amplify | ~10 posts on webinar campaigns | ~5 case study webinars |
 | Goldcast | — | — |
 
