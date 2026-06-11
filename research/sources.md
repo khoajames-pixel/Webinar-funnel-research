@@ -109,17 +109,17 @@ Last verified: **2026-06-12**
 
 ### 7. Ryan James
 
-- **Role:** B2B SaaS marketing educator and operator sharing growth, content, and webinar-led demand tactics.
-- **Why chosen:** Included as a practitioner voice for SaaS operators — useful for understanding how smaller teams run webinars as a growth channel without enterprise budgets. Good complement to platform and strategist sources.
-- **LinkedIn:** [https://www.linkedin.com/in/ryanjames/](https://www.linkedin.com/in/ryanjames/)
-- **Site:** _Verify personal site or primary content hub before collection_
-- **Content types:** LinkedIn posts, YouTube breakdowns, operator-style playbooks.
+- **Role:** Founder, [Rocket SaaS](https://rocket-saas.io/). B2B SaaS marketing agency focused on demand generation, lead magnets, paid ads, and webinar-led campaigns for startups and growth-stage SaaS brands.
+- **Why chosen:** Ryan James runs webinar campaigns as a core demand-gen tactic for SaaS clients — Rocket SaaS case studies report results like £7.86 webinar CPL and 380 conversions/month. Strong practitioner voice for teams building webinar funnels without large in-house marketing departments.
+- **LinkedIn:** [https://www.linkedin.com/in/ryanjamesrocketsaas/](https://www.linkedin.com/in/ryanjamesrocketsaas/)
+- **Site:** [https://rocket-saas.io/](https://rocket-saas.io/)
+- **Content types:** LinkedIn posts, podcast, blog, webinars and events, video tips, case studies.
 
 **Best content to collect:**
-- LinkedIn posts on SaaS growth and webinar promotion _(save to `research/linkedin-posts/`)_
-- YouTube videos on B2B marketing and webinars _(save to `research/youtube-transcripts/`)_
-
-> **Note:** "Ryan James" is a common name — verify this is the correct practitioner before collecting content.
+- [Rocket SaaS — Webinars and events](https://rocket-saas.io/)
+- [Rocket SaaS — Case studies](https://rocket-saas.io/) _(includes webinar CPL and conversion results)_
+- LinkedIn posts on SaaS demand gen and webinar promotion _(save to `research/linkedin-posts/`)_
+- Podcast and video tips on B2B SaaS marketing _(save to `research/youtube-transcripts/`)_
 
 ---
 
