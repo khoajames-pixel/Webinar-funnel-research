@@ -25,9 +25,20 @@ See **[research/sources.md](./research/sources.md)** for full rationale and link
 
 ## What's Collected
 
-- **LinkedIn posts** — Short-form insights and frameworks from practitioners.
-- **YouTube transcripts** — Long-form breakdowns of webinar funnels, tutorials, and case studies.
-- **Other materials** — Blog posts, reports, and guides from SaaS platforms and agencies.
+| Expert | LinkedIn posts | Transcripts |
+|--------|----------------|-------------|
+| ON24 | — | — |
+| LiveWebinar | — | — |
+| WebinarNinja | — | — |
+| Chris Walker | — | — |
+| Dave Gerhardt | — | — |
+| Daniel Murray | — | — |
+| Ryan James | — | — |
+| Sangram Vajre | — | — |
+| Intent Amplify | — | — |
+| Goldcast | — | — |
+
+Plus `/research/other/`: case studies, benchmark reports, and collection-method notes.
 
 ## Collection Method
 
@@ -40,16 +51,6 @@ See **[research/sources.md](./research/sources.md)** for full rationale and link
 - **APIs** — Supadata, YouTube API for transcripts.
 - **Manual collection** — LinkedIn posts (due to scraping limitations).
 - **GitHub organization** — Structured folders and incremental commits to keep the research clean and transparent.
-
-## Project Status
-
-| Area | Status |
-|------|--------|
-| README & project structure | In progress |
-| Expert source list | Listed with links |
-| LinkedIn posts | Not started |
-| YouTube transcripts | Not started |
-| Other materials | Not started |
 
 ## Goal
 
