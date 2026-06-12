@@ -33,7 +33,7 @@ Last verified: **2026-06-12**
 **Best content to collect:**
 - [ON24 Resource Center](https://www.on24.com/resources/)
 - [2026 Webinar Benchmarks Report](https://www.on24.com/resources/) _(search "Webinar Benchmarks" on site)_
-- [How to Calculate ROI on Webinars](https://www.on24.com/blog/how-to-calculate-roi-on-webinars/)
+- [B2B Content Marketing: What It Is and How to Do It](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
 
 ---
 
