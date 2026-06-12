@@ -27,7 +27,7 @@ Last verified: **2026-06-12**
 - **Role:** Enterprise webinar and digital experience platform. Publishes annual benchmark reports, customer stories, and demand-gen playbooks for B2B teams.
 - **Why chosen:** One of the most data-rich sources in the space — ON24 publishes webinar benchmarks, ROI frameworks, and customer stories showing how B2B companies turn webinars into pipeline. Strong for funnel design, engagement tactics, and post-event nurture.
 - **LinkedIn:** [https://www.linkedin.com/company/on24](https://www.linkedin.com/company/on24)
-- **Site:** [https://www.on24.com/](https://www.on24.com/)
+- **Site:** [https://www.on24.com/](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
 - **Content types:** Benchmark reports, blog posts, customer stories, on-demand webinars.
 
 **Best content to collect:**
@@ -111,14 +111,14 @@ Last verified: **2026-06-12**
 
 - **Role:** Founder, [Rocket SaaS](https://rocket-saas.io/). B2B SaaS marketing agency focused on demand generation, lead magnets, paid ads, and webinar-led campaigns for startups and growth-stage SaaS brands.
 - **Why chosen:** Ryan James runs webinar campaigns as a core demand-gen tactic for SaaS clients — Rocket SaaS case studies report results like £7.86 webinar CPL and 380 conversions/month. Strong practitioner voice for teams building webinar funnels without large in-house marketing departments.
-- **LinkedIn:** [https://www.linkedin.com/in/ryanjamesrocketsaas/](https://www.linkedin.com/in/ryanjamesrocketsaas/)
-- **Site:** [https://rocket-saas.io/](https://rocket-saas.io/)
+- **LinkedIn:** [B2B SaaS Series of Webinars: How to Create a Lead Generating Marketing Funnel](https://www.linkedin.com/posts/ryanjamesrocketsaas_b2b-saas-series-of-webinars-how-to-create-activity-7197132046484283392-LP-H/)
+- **Site:** [SaaS Marketing vs Traditional Marketing for B2B Businesses](https://rocket-saas.io/blog/saas-vs-traditional-marketing/)
 - **Content types:** LinkedIn posts, podcast, blog, webinars and events, video tips, case studies.
 
 **Best content to collect:**
 - [Rocket SaaS — Webinars and events](https://rocket-saas.io/)
 - [Rocket SaaS — Case studies](https://rocket-saas.io/) _(includes webinar CPL and conversion results)_
-- LinkedIn posts on SaaS demand gen and webinar promotion _(save to `research/linkedin-posts/`)_
+- [B2B SaaS Series of Webinars: How to Create a Lead Generating Marketing Funnel (LinkedIn post)](https://www.linkedin.com/posts/ryanjamesrocketsaas_b2b-saas-series-of-webinars-how-to-create-activity-7197132046484283392-LP-H/) _(save to `research/linkedin-posts/`)_
 - Podcast and video tips on B2B SaaS marketing _(save to `research/youtube-transcripts/`)_
 
 ---
