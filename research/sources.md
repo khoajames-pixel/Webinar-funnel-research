@@ -13,7 +13,7 @@ Last verified: **2026-06-12**
 | 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
 | 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, podcast, newsletter | Listed |
 | 6 | Daniel Murray | Demand-gen strategist | LinkedIn, podcast, social | Listed |
-| 7 | Ryan James | SaaS operator / educator | LinkedIn, YouTube | Listed |
+| 7 | Ryan James | SaaS operator / educator | LinkedIn, podcast, blog, case studies | Listed |
 | 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, podcast, book | Listed |
 | 9 | Intent Amplify | Agency | Webinars, case studies, research | Listed |
 | 10 | Goldcast | Platform | Blog, guides, customer stories | Listed |
@@ -125,7 +125,7 @@ Last verified: **2026-06-12**
 
 ### 8. Sangram Vajre
 
-- **Role:** Co-founder, GTM Partners. Author, speaker, and ABM / demand-gen strategist for B2B SaaS.
+- **Role:** Co-founder, GTM Partners (formerly Terminus / PEAK). Author, speaker, and ABM / demand-gen strategist for B2B SaaS.
 - **Why chosen:** Sangram Vajre helped popularize account-based marketing and GTM strategy for SaaS. His work is directly relevant to webinar funnels aimed at target accounts, buying committees, and pipeline activation — not just top-of-funnel registrations.
 - **LinkedIn:** [https://www.linkedin.com/in/sangram/](https://www.linkedin.com/in/sangram/)
 - **Site:** [https://gtm.partners/](https://gtm.partners/)
@@ -183,8 +183,8 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 | Source type | Experts with material |
 |-------------|----------------------|
 | LinkedIn posts | all 10 |
-| Podcast transcripts | Gerhardt, Walker, Murray, James, Vajre |
-| YouTube / video transcripts | James, Murray, Walker |
+| Podcast transcripts | Gerhardt, Walker, Murray, James, Vajre, Goldcast |
+| YouTube / video transcripts | James, Murray, Walker, Goldcast |
 | Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Goldcast |
 | Case studies & client results | ON24, Goldcast, Intent Amplify, James |
 | Benchmark reports & research | ON24, Intent Amplify |
