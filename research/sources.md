@@ -41,13 +41,13 @@ Last verified: **2026-06-12**
 
 - **Role:** Webinar platform focused on live events, automation, and conversion for marketers and SaaS teams.
 - **Why chosen:** Practical, operator-friendly guidance on registration pages, reminders, follow-up sequences, and webinar promotion — useful for teams building a funnel from zero without enterprise complexity.
-- **LinkedIn:** [https://www.linkedin.com/company/livewebinar](https://www.linkedin.com/company/livewebinar)
-- **Site:** [https://www.livewebinar.com/](https://www.livewebinar.com/)
-- **Content types:** Blog guides, tutorials, product-led funnel examples.
+- **YouTube:** [https://www.youtube.com/watch?v=ThdTegUyhzg](https://www.youtube.com/watch?v=ThdTegUyhzg) _(save to `research/youtube-transcripts/`)_
+- **Site:** [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
+- **Content types:** Blog guides, tutorials, product-led funnel examples, video.
 
 **Best content to collect:**
-- [LiveWebinar Blog](https://www.livewebinar.com/blog/)
-- Webinar promotion and follow-up guides _(collect from blog)_
+- [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
+- [YouTube — webinar funnel video](https://www.youtube.com/watch?v=ThdTegUyhzg) _(save to `research/youtube-transcripts/`)_
 
 ---
 
@@ -55,8 +55,8 @@ Last verified: **2026-06-12**
 
 - **Role:** Webinar platform and education brand for creators, marketers, and SaaS operators running live and automated webinars.
 - **Why chosen:** Strong practitioner angle — WebinarNinja combines software with marketing education, making it a good source for registration, presentation, and conversion tactics aimed at smaller SaaS teams.
-- **LinkedIn:** [https://www.linkedin.com/company/webinarninja](https://www.linkedin.com/company/webinarninja)
-- **Site:** [https://webinarninja.com/](https://webinarninja.com/)
+- **LinkedIn:** [WebinarNinja company posts](https://www.linkedin.com/company/webinarninjasoftware/posts/?feedView=documents&viewAsMember=true)
+- **Site:** [100+ Webinar Statistics to Increase Attendance & Conversions](https://webinarninja.com/blog/webinar-statistics/)
 - **Content types:** Blog posts, courses, webinar marketing guides.
 
 **Best content to collect:**
@@ -69,12 +69,14 @@ Last verified: **2026-06-12**
 
 - **Role:** Founder, Refine Labs. Leading voice in demand generation, dark social, and pipeline creation for B2B SaaS.
 - **Why chosen:** Chris Walker reframed how B2B SaaS measures marketing — emphasizing audience, content, and pipeline over vanity metrics. His frameworks connect thought leadership, live content (including webinars), and revenue in ways most generic webinar advice does not.
-- **LinkedIn:** [https://www.linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171/)
-- **Site:** [https://www.refinelabs.com/](https://www.refinelabs.com/)
-- **Content types:** LinkedIn posts, podcast episodes, Refine Labs blog content.
+- **LinkedIn:** [Refine Labs Unveils Pipeline Sources, a New Way to Measure GTM Efficiency](https://www.linkedin.com/posts/chriswalker171_refine-labs-unveils-pipeline-sources-a-new-activity-7120025529939853313-2ZXU/)
+- **YouTube:** [https://www.youtube.com/watch?v=NhHwin_fZd0](https://www.youtube.com/watch?v=NhHwin_fZd0)
+- **Site:** [Megan Bowen on National TV: The Future of B2B Marketing Starts Here](https://www.refinelabs.com/article/megan-bowen-on-national-tv-the-future-of-b2b-marketing-starts-here)
+- **Content types:** LinkedIn posts, podcast episodes, Refine Labs blog content, video.
 
 **Best content to collect:**
 - [Refine Labs](https://www.refinelabs.com/)
+- [YouTube — Refine Labs video](https://www.youtube.com/watch?v=NhHwin_fZd0)
 - LinkedIn posts on demand gen, content, and pipeline _(save to `research/linkedin-posts/`)_
 
 ---
@@ -112,6 +114,7 @@ Last verified: **2026-06-12**
 - **Role:** Founder, [Rocket SaaS](https://rocket-saas.io/). B2B SaaS marketing agency focused on demand generation, lead magnets, paid ads, and webinar-led campaigns for startups and growth-stage SaaS brands.
 - **Why chosen:** Ryan James runs webinar campaigns as a core demand-gen tactic for SaaS clients — Rocket SaaS case studies report results like £7.86 webinar CPL and 380 conversions/month. Strong practitioner voice for teams building webinar funnels without large in-house marketing departments.
 - **LinkedIn:** [B2B SaaS Series of Webinars: How to Create a Lead Generating Marketing Funnel](https://www.linkedin.com/posts/ryanjamesrocketsaas_b2b-saas-series-of-webinars-how-to-create-activity-7197132046484283392-LP-H/)
+- **YouTube:** [How to Rapidly Scale a Construction SaaS Business | Marketing Playbook & Ads Strategy](https://www.youtube.com/watch?v=ROI5Ggd7lT4)
 - **Site:** [SaaS Marketing vs Traditional Marketing for B2B Businesses](https://rocket-saas.io/blog/saas-vs-traditional-marketing/)
 - **Content types:** LinkedIn posts, podcast, blog, webinars and events, video tips, case studies.
 
@@ -119,7 +122,7 @@ Last verified: **2026-06-12**
 - [Rocket SaaS — Webinars and events](https://rocket-saas.io/)
 - [Rocket SaaS — Case studies](https://rocket-saas.io/) _(includes webinar CPL and conversion results)_
 - [B2B SaaS Series of Webinars: How to Create a Lead Generating Marketing Funnel (LinkedIn post)](https://www.linkedin.com/posts/ryanjamesrocketsaas_b2b-saas-series-of-webinars-how-to-create-activity-7197132046484283392-LP-H/) _(save to `research/linkedin-posts/`)_
-- Podcast and video tips on B2B SaaS marketing _(save to `research/youtube-transcripts/`)_
+- [How to Rapidly Scale a Construction SaaS Business | Marketing Playbook & Ads Strategy (YouTube)](https://www.youtube.com/watch?v=ROI5Ggd7lT4)
 
 ---
 
@@ -182,13 +185,12 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 
 | Source type | Experts with material |
 |-------------|----------------------|
-| LinkedIn posts | all 10 |
-| Podcast transcripts | Gerhardt, Walker, Murray, James, Vajre, Goldcast |
-| YouTube / video transcripts | James, Murray, Walker, Goldcast |
-| Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Goldcast |
-| Case studies & client results | ON24, Goldcast, Intent Amplify, James |
-| Benchmark reports & research | ON24, Intent Amplify |
-| Webinars & live events | ON24, Intent Amplify, James |
+| LinkedIn posts | WebinarNinja, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
+| YouTube / video transcripts | LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
+| Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Walker, James, Intent Amplify, Goldcast |
+| Case studies & client results | Intent Amplify _(~1–2, approximate)_ |
+| Benchmark reports & research | — _(not yet collected)_ |
+| Webinars & live events | Intent Amplify _(~1, approximate)_ |
 
 ---
 

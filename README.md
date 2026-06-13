@@ -25,20 +25,24 @@ See **[research/sources.md](./research/sources.md)** for full rationale and link
 
 ## What's Collected
 
-| Expert | LinkedIn posts (webinar-focused) | YouTube / podcast transcripts (webinar-focused) |
-|--------|----------------------------------|--------------------------------------------------|
-| ON24 | ~5–10 company posts about webinars | 20+ webinar recordings / tutorials |
-| LiveWebinar | ~10 posts about webinar funnels | 15+ tutorials & guides |
-| WebinarNinja | ~5–10 posts | 20+ tutorials & customer case studies |
-| Chris Walker (Refine Labs) | ~30 posts on webinars / demand-gen | ~20 podcast episodes with webinar strategy |
-| Dave Gerhardt (Exit Five) | ~20 posts on webinars / community events | ~10 podcast / webinar episodes |
-| Daniel Murray | ~15 posts mentioning webinars | ~10 podcast episodes with webinar case studies |
-| Ryan James (Rocket SaaS) | ~10–15 posts on SaaS funnels & webinars | ~5 podcast episodes on webinar funnels |
-| Sangram Vajre (Terminus / PEAK) | ~15 posts on webinars in ABM | ~10 podcast / webinar episodes |
-| Intent Amplify | ~10 posts on webinar campaigns | ~5 case study webinars |
-| Goldcast | ~15 posts on LinkedIn | ~20 podcast episodes about webinars |
+Counts reflect items linked in **[research/sources.md](./research/sources.md)** where noted; remaining experts are **~1–2 items each** (approximate, pending full collection).
 
-Plus `/research/other/`: case studies, benchmark reports, and collection-method notes.
+| Expert | LinkedIn posts (webinar-focused) | YouTube / video transcripts (webinar-focused) | Blog / site articles (webinar-focused) |
+|--------|----------------------------------|-----------------------------------------------|----------------------------------------|
+| ON24 | — | — | 1 — B2B content marketing guide |
+| LiveWebinar | — | 1 — SaaS webinar funnel video | 1 — actionable SaaS webinar funnel guide |
+| WebinarNinja | 1 — company posts feed | — | 1 — webinar statistics article |
+| Chris Walker (Refine Labs) | 1 — Pipeline Sources post | 1 — Refine Labs video | 1 — B2B marketing / Brand–Demand–Expand article |
+| Dave Gerhardt (Exit Five) | ~1–2 | ~1 | — |
+| Daniel Murray | ~1–2 | ~1 | — |
+| Ryan James (Rocket SaaS) | 1 — webinar funnel series post | 1 — SaaS marketing playbook video | 1 — SaaS vs traditional marketing article |
+| Sangram Vajre (Terminus / PEAK) | ~1–2 | ~1 | — |
+| Intent Amplify | ~1 | ~1 | ~1–2 |
+| Goldcast | ~1–2 | ~1 | ~1 |
+
+**Totals:** ~8–12 LinkedIn items · ~7–8 YouTube / video / podcast items · ~6–7 blog / site articles
+
+Plus `/research/other/`: case studies, benchmark reports, and collection-method notes _(folders ready; no files saved yet)_.
 
 ## Collection Method
 
