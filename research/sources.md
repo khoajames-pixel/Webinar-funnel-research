@@ -12,9 +12,9 @@ Last verified: **2026-06-12**
 | 3 | WebinarNinja | Platform | Guides, blog, courses | Listed |
 | 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
 | 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, podcast, newsletter | Listed |
-| 6 | Daniel Murray | Demand-gen strategist | LinkedIn, podcast, social | Listed |
+| 6 | Daniel Murray | Demand-gen strategist | YouTube, podcast, article, social | Listed |
 | 7 | Ryan James | SaaS operator / educator | LinkedIn, podcast, blog, case studies | Listed |
-| 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, podcast, book | Listed |
+| 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, YouTube, webinar, book | Listed |
 | 9 | Intent Amplify | Agency | Webinars, case studies, research | Listed |
 | 10 | Goldcast | Platform | Blog, guides, customer stories | Listed |
 
@@ -85,13 +85,13 @@ Last verified: **2026-06-12**
 
 - **Role:** Founder, Exit Five. Former CMO and B2B marketing leader focused on brand, storytelling, and community-led growth.
 - **Why chosen:** Dave Gerhardt is one of the clearest voices on B2B brand building and audience development — both critical for webinar promotion, registration, and post-event nurture. Strong on messaging, positioning, and making complex SaaS topics engaging.
-- **LinkedIn:** [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
-- **Site:** [https://www.exitfive.com/](https://www.exitfive.com/)
+- **LinkedIn:** [The Anti-Social Buyer: Demand Gen Plays for 2026](https://www.linkedin.com/posts/davegerhardt_the-anti-social-buyer-demand-gen-plays-for-activity-7469761012234297344-oNGm/)
+- **Site:** [Creating Webinars People Actually Want to Attend (Exit Five podcast)](https://exitfive.com/podcast/creating-webinars-people-actually-want-to-attend/)
 - **Content types:** LinkedIn posts, Exit Five podcast, newsletter, event content.
 
 **Best content to collect:**
-- [Exit Five](https://www.exitfive.com/)
-- LinkedIn posts on B2B marketing and audience building _(save to `research/linkedin-posts/`)_
+- [Creating Webinars People Actually Want to Attend (Exit Five podcast)](https://exitfive.com/podcast/creating-webinars-people-actually-want-to-attend/)
+- [The Anti-Social Buyer: Demand Gen Plays for 2026 (LinkedIn post)](https://www.linkedin.com/posts/davegerhardt_the-anti-social-buyer-demand-gen-plays-for-activity-7469761012234297344-oNGm/)
 
 ---
 
@@ -99,13 +99,13 @@ Last verified: **2026-06-12**
 
 - **Role:** Founder, The Marketing Millennials. B2B marketer focused on social-first demand creation and modern marketing culture.
 - **Why chosen:** Daniel Murray sits at the intersection of social distribution and B2B marketing — highly relevant for webinar promotion on LinkedIn, short-form clips, and turning live events into ongoing content engines.
-- **LinkedIn:** [https://www.linkedin.com/in/itsdanielmurray/](https://www.linkedin.com/in/itsdanielmurray/)
-- **Site:** [https://themarketingmillennials.com/](https://themarketingmillennials.com/)
-- **Content types:** LinkedIn posts, podcast, short-form video, social playbooks.
+- **YouTube:** [https://www.youtube.com/watch?v=Lp1UJt6iCt8](https://www.youtube.com/watch?v=Lp1UJt6iCt8) _(save to `research/youtube-transcripts/`)_
+- **Site:** [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
+- **Content types:** podcast, short-form video, social playbooks.
 
 **Best content to collect:**
-- [The Marketing Millennials](https://themarketingmillennials.com/)
-- LinkedIn posts on social-led B2B promotion _(save to `research/linkedin-posts/`)_
+- [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
+- [YouTube — webinar attendance video](https://www.youtube.com/watch?v=Lp1UJt6iCt8) _(save to `research/youtube-transcripts/`)_
 
 ---
 
@@ -130,13 +130,15 @@ Last verified: **2026-06-12**
 
 - **Role:** Co-founder, GTM Partners (formerly Terminus / PEAK). Author, speaker, and ABM / demand-gen strategist for B2B SaaS.
 - **Why chosen:** Sangram Vajre helped popularize account-based marketing and GTM strategy for SaaS. His work is directly relevant to webinar funnels aimed at target accounts, buying committees, and pipeline activation — not just top-of-funnel registrations.
-- **LinkedIn:** [https://www.linkedin.com/in/sangram/](https://www.linkedin.com/in/sangram/)
-- **Site:** [https://gtm.partners/](https://gtm.partners/)
+- **LinkedIn:** [Agentic Marketing: Inbound is Just the Beginning](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/)
+- **YouTube:** [https://www.youtube.com/watch?v=SYMU0aAocb0](https://www.youtube.com/watch?v=SYMU0aAocb0) _(save to `research/youtube-transcripts/`)_
+- **Site:** [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
 - **Content types:** LinkedIn posts, podcast, books, GTM frameworks.
 
 **Best content to collect:**
-- [GTM Partners](https://gtm.partners/)
-- LinkedIn posts on ABM, demand gen, and GTM _(save to `research/linkedin-posts/`)_
+- [Agentic Marketing: Inbound is Just the Beginning (LinkedIn article)](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/) _(save to `research/linkedin-posts/`)_
+- [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
+- [YouTube — GTM webinar video](https://www.youtube.com/watch?v=SYMU0aAocb0) _(save to `research/youtube-transcripts/`)_
 
 ---
 
@@ -185,9 +187,9 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 
 | Source type | Experts with material |
 |-------------|----------------------|
-| LinkedIn posts | WebinarNinja, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
+| LinkedIn posts | WebinarNinja, Walker, James, Gerhardt, Vajre, Intent Amplify, Goldcast |
 | YouTube / video transcripts | LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
-| Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Walker, James, Intent Amplify, Goldcast |
+| Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Walker, Gerhardt, Murray, James, Intent Amplify, Goldcast |
 | Case studies & client results | Intent Amplify _(~1–2, approximate)_ |
 | Benchmark reports & research | — _(not yet collected)_ |
 | Webinars & live events | Intent Amplify _(~1, approximate)_ |
