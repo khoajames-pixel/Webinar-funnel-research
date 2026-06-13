@@ -11,7 +11,7 @@ Last verified: **2026-06-12**
 | 2 | LiveWebinar | Platform | Guides, blog | Listed |
 | 3 | WebinarNinja | Platform | Guides, blog, courses | Listed |
 | 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
-| 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, podcast, newsletter | Listed |
+| 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, YouTube, podcast, newsletter | Listed |
 | 6 | Daniel Murray | Demand-gen strategist | YouTube, podcast, article, social | Listed |
 | 7 | Ryan James | SaaS operator / educator | LinkedIn, podcast, blog, case studies | Listed |
 | 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, YouTube, webinar, book | Listed |
@@ -83,12 +83,14 @@ Last verified: **2026-06-12**
 - **Role:** Founder, Exit Five. Former CMO and B2B marketing leader focused on brand, storytelling, and community-led growth.
 - **Why chosen:** Dave Gerhardt is one of the clearest voices on B2B brand building and audience development — both critical for webinar promotion, registration, and post-event nurture. Strong on messaging, positioning, and making complex SaaS topics engaging.
 - **LinkedIn:** [The Anti-Social Buyer: Demand Gen Plays for 2026](https://www.linkedin.com/posts/davegerhardt_the-anti-social-buyer-demand-gen-plays-for-activity-7469761012234297344-oNGm/)
+- **YouTube:** [Merging Funnels, Targeting Multiple Personas, and Restructuring Your Marketing Team](https://www.youtube.com/watch?v=eZe1E2OtFzA)
 - **Site:** [Creating Webinars People Actually Want to Attend (Exit Five podcast)](https://exitfive.com/podcast/creating-webinars-people-actually-want-to-attend/)
-- **Content types:** LinkedIn posts, Exit Five podcast, newsletter, event content.
+- **Content types:** LinkedIn posts, Exit Five podcast, newsletter, event content, video.
 
 **Best content to collect:**
 - [Creating Webinars People Actually Want to Attend (Exit Five podcast)](https://exitfive.com/podcast/creating-webinars-people-actually-want-to-attend/)
 - [The Anti-Social Buyer: Demand Gen Plays for 2026 (LinkedIn post)](https://www.linkedin.com/posts/davegerhardt_the-anti-social-buyer-demand-gen-plays-for-activity-7469761012234297344-oNGm/)
+- [Merging Funnels, Targeting Multiple Personas, and Restructuring Your Marketing Team (YouTube)](https://www.youtube.com/watch?v=eZe1E2OtFzA)
 
 ---
 

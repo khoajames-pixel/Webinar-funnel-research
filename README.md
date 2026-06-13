@@ -33,14 +33,14 @@ Counts reflect items linked in **[research/sources.md](./research/sources.md)** 
 | LiveWebinar | — | 1 — SaaS webinar funnel video | 1 — actionable SaaS webinar funnel guide |
 | WebinarNinja | 1 — company posts feed | — | 1 — webinar statistics article |
 | Chris Walker (Refine Labs) | 1 — Pipeline Sources post | 1 — Refine Labs video | 1 — future of B2B marketing article |
-| Dave Gerhardt (Exit Five) | 1 — Anti-Social Buyer demand gen post | — | 1 — Creating Webinars People Actually Want to Attend (podcast) |
+| Dave Gerhardt (Exit Five) | 1 — Anti-Social Buyer demand gen post | 1 — Merging Funnels, Targeting Multiple Personas, and Restructuring Your Marketing Team | 1 — Creating Webinars People Actually Want to Attend (podcast) |
 | Daniel Murray | — | 1 — webinar attendance video | 1 — How Can We Get People To Show Up To Webinars? |
 | Ryan James (Rocket SaaS) | 1 — webinar funnel series post | 1 — SaaS marketing playbook video | 1 — SaaS vs traditional marketing article |
 | Sangram Vajre (GTM Partners) | 1 — Agentic Marketing: Inbound is Just the Beginning | 1 — GTM webinar video | 1 — Software's Role in Solving a Broken Go-to-Market (G2 webinar) |
 | Intent Amplify | ~1 — webinar campaign & pipeline post | ~1 — client case study webinar recording | ~1–2 — demand intel reports & case studies |
 | Goldcast | ~1–2 — event-led growth & webinar posts | ~1 — event-led growth podcast episode | ~1 — SaaS webinar playbook guide |
 
-**Totals:** ~7–8 LinkedIn items · ~6–7 YouTube / video items · ~9–10 blog / site articles
+**Totals:** ~7–8 LinkedIn items · ~7–8 YouTube / video items · ~9–10 blog / site articles
 
 Plus `/research/other/`: case studies, benchmark reports, and collection-method notes _(folders ready; no files saved yet)_.
 
