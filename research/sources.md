@@ -41,14 +41,12 @@ Last verified: **2026-06-12**
 
 - **Role:** Webinar platform focused on live events, automation, and conversion for marketers and SaaS teams.
 - **Why chosen:** Practical, operator-friendly guidance on registration pages, reminders, follow-up sequences, and webinar promotion — useful for teams building a funnel from zero without enterprise complexity.
-- **YouTube:** [https://www.youtube.com/watch?v=ThdTegUyhzg](https://www.youtube.com/watch?v=ThdTegUyhzg) _(save to `research/youtube-transcripts/`)_
-- **Site:** [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
+- **YouTube:** [https://www.youtube.com/watch?v=ThdTegUyhzg](https://www.youtube.com/watch?v=ThdTegUyhzg)- **Site:** [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
 - **Content types:** Blog guides, tutorials, product-led funnel examples, video.
 
 **Best content to collect:**
 - [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
-- [YouTube — webinar funnel video](https://www.youtube.com/watch?v=ThdTegUyhzg) _(save to `research/youtube-transcripts/`)_
-
+- [YouTube — webinar funnel video](https://www.youtube.com/watch?v=ThdTegUyhzg)
 ---
 
 ### 3. WebinarNinja
@@ -77,8 +75,7 @@ Last verified: **2026-06-12**
 **Best content to collect:**
 - [Refine Labs](https://www.refinelabs.com/)
 - [YouTube — Refine Labs video](https://www.youtube.com/watch?v=NhHwin_fZd0)
-- LinkedIn posts on demand gen, content, and pipeline _(save to `research/linkedin-posts/`)_
-
+- LinkedIn posts on demand gen, content, and pipeline
 ---
 
 ### 5. Dave Gerhardt
@@ -99,14 +96,12 @@ Last verified: **2026-06-12**
 
 - **Role:** Founder, The Marketing Millennials. B2B marketer focused on social-first demand creation and modern marketing culture.
 - **Why chosen:** Daniel Murray sits at the intersection of social distribution and B2B marketing — highly relevant for webinar promotion on LinkedIn, short-form clips, and turning live events into ongoing content engines.
-- **YouTube:** [https://www.youtube.com/watch?v=Lp1UJt6iCt8](https://www.youtube.com/watch?v=Lp1UJt6iCt8) _(save to `research/youtube-transcripts/`)_
-- **Site:** [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
+- **YouTube:** [https://www.youtube.com/watch?v=Lp1UJt6iCt8](https://www.youtube.com/watch?v=Lp1UJt6iCt8)- **Site:** [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
 - **Content types:** podcast, short-form video, social playbooks.
 
 **Best content to collect:**
 - [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
-- [YouTube — webinar attendance video](https://www.youtube.com/watch?v=Lp1UJt6iCt8) _(save to `research/youtube-transcripts/`)_
-
+- [YouTube — webinar attendance video](https://www.youtube.com/watch?v=Lp1UJt6iCt8)
 ---
 
 ### 7. Ryan James
@@ -121,8 +116,7 @@ Last verified: **2026-06-12**
 **Best content to collect:**
 - [Rocket SaaS — Webinars and events](https://rocket-saas.io/)
 - [Rocket SaaS — Case studies](https://rocket-saas.io/) _(includes webinar CPL and conversion results)_
-- [B2B SaaS Series of Webinars: How to Create a Lead Generating Marketing Funnel (LinkedIn post)](https://www.linkedin.com/posts/ryanjamesrocketsaas_b2b-saas-series-of-webinars-how-to-create-activity-7197132046484283392-LP-H/) _(save to `research/linkedin-posts/`)_
-- [How to Rapidly Scale a Construction SaaS Business | Marketing Playbook & Ads Strategy (YouTube)](https://www.youtube.com/watch?v=ROI5Ggd7lT4)
+- [B2B SaaS Series of Webinars: How to Create a Lead Generating Marketing Funnel (LinkedIn post)](https://www.linkedin.com/posts/ryanjamesrocketsaas_b2b-saas-series-of-webinars-how-to-create-activity-7197132046484283392-LP-H/)- [How to Rapidly Scale a Construction SaaS Business | Marketing Playbook & Ads Strategy (YouTube)](https://www.youtube.com/watch?v=ROI5Ggd7lT4)
 
 ---
 
@@ -131,15 +125,12 @@ Last verified: **2026-06-12**
 - **Role:** Co-founder, GTM Partners (formerly Terminus / PEAK). Author, speaker, and ABM / demand-gen strategist for B2B SaaS.
 - **Why chosen:** Sangram Vajre helped popularize account-based marketing and GTM strategy for SaaS. His work is directly relevant to webinar funnels aimed at target accounts, buying committees, and pipeline activation — not just top-of-funnel registrations.
 - **LinkedIn:** [Agentic Marketing: Inbound is Just the Beginning](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/)
-- **YouTube:** [https://www.youtube.com/watch?v=SYMU0aAocb0](https://www.youtube.com/watch?v=SYMU0aAocb0) _(save to `research/youtube-transcripts/`)_
-- **Site:** [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
+- **YouTube:** [https://www.youtube.com/watch?v=SYMU0aAocb0](https://www.youtube.com/watch?v=SYMU0aAocb0)- **Site:** [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
 - **Content types:** LinkedIn posts, podcast, books, GTM frameworks.
 
 **Best content to collect:**
-- [Agentic Marketing: Inbound is Just the Beginning (LinkedIn article)](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/) _(save to `research/linkedin-posts/`)_
-- [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
-- [YouTube — GTM webinar video](https://www.youtube.com/watch?v=SYMU0aAocb0) _(save to `research/youtube-transcripts/`)_
-
+- [Agentic Marketing: Inbound is Just the Beginning (LinkedIn article)](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/)- [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
+- [YouTube — GTM webinar video](https://www.youtube.com/watch?v=SYMU0aAocb0)
 ---
 
 ### 9. Intent Amplify
