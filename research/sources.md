@@ -143,8 +143,7 @@ Last verified: **2026-06-12**
 
 **Best content to collect:**
 - [Intent Amplify — Webinars & Panels](https://intentamplify.com/)
-- Case studies and client results pages _(save to `research/other/`)_
-
+- Case studies and client results pages
 ---
 
 ### 10. Goldcast
@@ -157,8 +156,7 @@ Last verified: **2026-06-12**
 
 **Best content to collect:**
 - [Goldcast Blog](https://www.goldcast.io/blog)
-- Customer stories and event-led growth guides _(save to `research/other/`)_
-
+- Customer stories and event-led growth guides
 ---
 
 ## Coverage Map
