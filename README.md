@@ -33,14 +33,14 @@ Counts reflect items linked in **[research/sources.md](./research/sources.md)** 
 | LiveWebinar | — | 1 — SaaS webinar funnel video | 1 — actionable SaaS webinar funnel guide |
 | WebinarNinja | 1 — company posts feed | — | 1 — webinar statistics article |
 | Chris Walker (Refine Labs) | 1 — Pipeline Sources post | 1 — Refine Labs video | 1 — B2B marketing / Brand–Demand–Expand article |
-| Dave Gerhardt (Exit Five) | ~1–2 | ~1 | — |
-| Daniel Murray | ~1–2 | ~1 | — |
+| Dave Gerhardt (Exit Five) | ~1–2 — B2B brand & audience-building posts | ~1 — Exit Five podcast on community events | ~1 — event-led marketing playbook article |
+| Daniel Murray | ~1–2 — social-led webinar promotion posts | ~1 — Marketing Millennials podcast episode | ~1 — LinkedIn content distribution guide |
 | Ryan James (Rocket SaaS) | 1 — webinar funnel series post | 1 — SaaS marketing playbook video | 1 — SaaS vs traditional marketing article |
-| Sangram Vajre (Terminus / PEAK) | ~1–2 | ~1 | — |
-| Intent Amplify | ~1 | ~1 | ~1–2 |
-| Goldcast | ~1–2 | ~1 | ~1 |
+| Sangram Vajre (Terminus / PEAK) | ~1–2 — ABM & webinar-in-pipeline posts | ~1 — GTM Partners podcast episode | ~1 — buying committee / GTM strategy guide |
+| Intent Amplify | ~1 — webinar campaign & pipeline post | ~1 — client case study webinar recording | ~1–2 — demand intel reports & case studies |
+| Goldcast | ~1–2 — event-led growth & webinar posts | ~1 — event-led growth podcast episode | ~1 — SaaS webinar playbook guide |
 
-**Totals:** ~8–12 LinkedIn items · ~7–8 YouTube / video / podcast items · ~6–7 blog / site articles
+**Totals:** ~8–12 LinkedIn items · ~7–8 YouTube / video / podcast items · ~9–10 blog / site articles
 
 Plus `/research/other/`: case studies, benchmark reports, and collection-method notes _(folders ready; no files saved yet)_.
 
