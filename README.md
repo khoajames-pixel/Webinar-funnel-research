@@ -29,7 +29,7 @@ Counts reflect items linked in **[research/sources.md](./research/sources.md)** 
 
 | Expert | LinkedIn posts (webinar-focused) | YouTube / video transcripts (webinar-focused) | Blog / site articles (webinar-focused) |
 |--------|----------------------------------|-----------------------------------------------|----------------------------------------|
-| ON24 | — | — | 1 — B2B content marketing guide |
+| ON24 | 1 — on-demand webinar strategy article | 1 — Pipeline Power Up webinar transcript | 1 — B2B content marketing guide |
 | LiveWebinar | — | 1 — SaaS webinar funnel video | 1 — actionable SaaS webinar funnel guide |
 | WebinarNinja | 1 — company posts feed | — | 1 — webinar statistics article |
 | Chris Walker (Refine Labs) | 1 — Pipeline Sources post | 1 — Refine Labs video | 1 — future of B2B marketing article |

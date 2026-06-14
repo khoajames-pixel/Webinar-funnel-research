@@ -26,13 +26,14 @@ Last verified: **2026-06-12**
 
 - **Role:** Enterprise webinar and digital experience platform. Publishes annual benchmark reports, customer stories, and demand-gen playbooks for B2B teams.
 - **Why chosen:** One of the most data-rich sources in the space — ON24 publishes webinar benchmarks, ROI frameworks, and customer stories showing how B2B companies turn webinars into pipeline. Strong for funnel design, engagement tactics, and post-event nurture.
-- **LinkedIn:** [https://www.linkedin.com/company/on24](https://www.linkedin.com/company/on24)
-- **Site:** [https://www.on24.com/](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
+- **LinkedIn:** [How to Craft an Effective On-Demand Webinar Strategy](https://www.linkedin.com/pulse/how-craft-effective-on-demand-webinar-strategy-on24-heepf/)
+- **Transcript:** [Pipeline Power Up: 5 Ways To Fuel Your Funnel](https://hub.on24.com/wcc/eh/3805219/lp/4749822/)
+- **Site:** [B2B Content Marketing: What It Is and How to Do It](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
 - **Content types:** Benchmark reports, blog posts, customer stories, on-demand webinars.
 
 **Best content to collect:**
-- [ON24 Resource Center](https://www.on24.com/resources/)
-- [2026 Webinar Benchmarks Report](https://www.on24.com/resources/) _(search "Webinar Benchmarks" on site)_
+- [How to Craft an Effective On-Demand Webinar Strategy (LinkedIn article)](https://www.linkedin.com/pulse/how-craft-effective-on-demand-webinar-strategy-on24-heepf/)
+- [Pipeline Power Up: 5 Ways To Fuel Your Funnel (webinar transcript)](https://hub.on24.com/wcc/eh/3805219/lp/4749822/)
 - [B2B Content Marketing: What It Is and How to Do It](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
 
 ---
@@ -181,8 +182,8 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 
 | Source type | Experts with material |
 |-------------|----------------------|
-| LinkedIn posts | WebinarNinja, Walker, James, Gerhardt, Vajre, Intent Amplify, Goldcast |
-| YouTube / video transcripts | LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
+| LinkedIn posts | ON24, WebinarNinja, Walker, James, Gerhardt, Vajre, Intent Amplify, Goldcast |
+| YouTube / video transcripts | ON24, LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
 | Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Walker, Gerhardt, Murray, James, Intent Amplify, Goldcast |
 | Case studies & client results | Intent Amplify _(~1–2, approximate)_ |
 | Benchmark reports & research | — _(not yet collected)_ |
