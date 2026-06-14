@@ -187,11 +187,3 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 | Case studies & client results | Intent Amplify _(~1–2, approximate)_ |
 | Benchmark reports & research | — _(not yet collected)_ |
 | Webinars & live events | Intent Amplify _(~1, approximate)_ |
-
----
-
-## Notes
-
-- Save collected items into the matching folder under `research/`.
-- For individuals, prioritize primary content (LinkedIn, YouTube, blog) over third-party summaries.
-- Re-verify all links before final submission.
