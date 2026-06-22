@@ -7,33 +7,33 @@ Last verified: **2026-06-12**
 
 | # | Name / Company | Category | Primary Source Type | Status |
 |---|----------------|----------|---------------------|--------|
-| 1 | ON24 | Platform | Case studies, blog, benchmarks | Listed |
+| 1 | Amy Porterfield | Founder / educator | Podcast, blog, courses, email sequences | Listed |
 | 2 | LiveWebinar | Platform | Guides, blog | Listed |
-| 3 | WebinarNinja | Platform | Guides, blog, courses | Listed |
+| 3 | Udi Ledergor / Gong | B2B SaaS operator / evangelist | LinkedIn, blog, webinars, book | Listed |
 | 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
 | 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, YouTube, podcast, newsletter | Listed |
 | 6 | Daniel Murray | Demand-gen strategist | YouTube, podcast, article, social | Listed |
 | 7 | Ryan James | SaaS operator / educator | LinkedIn, podcast, blog, case studies | Listed |
 | 8 | Sangram Vajre | SaaS operator / educator | LinkedIn, YouTube, webinar, book | Listed |
-| 9 | Intent Amplify | Agency | Webinars, case studies, research | Listed |
-| 10 | Goldcast | Platform | Blog, guides, customer stories | Listed |
+| 9 | Melissa Kwan | SaaS founder / educator | LinkedIn, blog, case studies, webinar content | Listed |
+| 10 | Mark Kilens | GTM strategist / educator | LinkedIn, podcast, blog, courses | Listed |
 
 ---
 
 ## Source Details
 
-### 1. ON24
+### 1. Amy Porterfield
 
-- **Role:** Enterprise webinar and digital experience platform. Publishes annual benchmark reports, customer stories, and demand-gen playbooks for B2B teams.
-- **Why chosen:** One of the most data-rich sources in the space — ON24 publishes webinar benchmarks, ROI frameworks, and customer stories showing how B2B companies turn webinars into pipeline. Strong for funnel design, engagement tactics, and post-event nurture.
-- **LinkedIn:** [https://www.linkedin.com/company/on24](https://www.linkedin.com/company/on24)
-- **Site:** [https://www.on24.com/](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
-- **Content types:** Benchmark reports, blog posts, customer stories, on-demand webinars.
+- **Role:** Founder, Online Marketing Made Easy | Host of *The Amy Porterfield Show*
+- **Why chosen:** Amy is the most systematic public teacher of the end-to-end webinar funnel — from landing page, to email nurture, to live webinar structure, to post-webinar offer. While she focuses primarily on digital courses, her webinar funnel mechanics translate directly to B2B SaaS (and are used by SaaS founders). Her recent podcast episode (Nov 2025) specifically addresses what's changed in webinar conversion in the current trust recession.
+- **LinkedIn:** [https://www.linkedin.com/in/amyporterfield/](https://www.linkedin.com/in/amyporterfield/)
+- **Site:** [https://www.amyporterfield.com/](https://www.amyporterfield.com/)
+- **Content types:** Podcast episodes, blog posts, courses, email marketing sequences, webinar recordings.
 
 **Best content to collect:**
-- [ON24 Resource Center](https://www.on24.com/resources/)
-- [2026 Webinar Benchmarks Report](https://www.on24.com/resources/) _(search "Webinar Benchmarks" on site)_
-- [B2B Content Marketing: What It Is and How to Do It](https://www.on24.com/blog/b2b-content-marketing-what-it-is-and-how-to-do-it/)
+- [Okay, I'll Say It: The Make Money While You Sleep Dream is Dead (LinkedIn post)](https://www.linkedin.com/posts/amyporterfield_okay-ill-say-it-the-make-money-while-activity-7440145267305201664-ORA3/)
+- [Webinar Funnel Transcript](https://www.amyporterfield.com/transcript/130transcript/)
+- [The Amy Porterfield Show Podcast Episode](https://open.spotify.com/episode/7fkiiL4skUEqgUTVl0R7AF)
 
 ---
 
@@ -41,7 +41,8 @@ Last verified: **2026-06-12**
 
 - **Role:** Webinar platform focused on live events, automation, and conversion for marketers and SaaS teams.
 - **Why chosen:** Practical, operator-friendly guidance on registration pages, reminders, follow-up sequences, and webinar promotion — useful for teams building a funnel from zero without enterprise complexity.
-- **YouTube:** [https://www.youtube.com/watch?v=ThdTegUyhzg](https://www.youtube.com/watch?v=ThdTegUyhzg)- **Site:** [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
+- **YouTube:** [https://www.youtube.com/watch?v=ThdTegUyhzg](https://www.youtube.com/watch?v=ThdTegUyhzg)
+- **Site:** [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
 - **Content types:** Blog guides, tutorials, product-led funnel examples, video.
 
 **Best content to collect:**
@@ -49,17 +50,18 @@ Last verified: **2026-06-12**
 - [YouTube — webinar funnel video](https://www.youtube.com/watch?v=ThdTegUyhzg)
 ---
 
-### 3. WebinarNinja
+### 3. Udi Ledergor / Gong
 
-- **Role:** Webinar platform and education brand for creators, marketers, and SaaS operators running live and automated webinars.
-- **Why chosen:** Strong practitioner angle — WebinarNinja combines software with marketing education, making it a good source for registration, presentation, and conversion tactics aimed at smaller SaaS teams.
-- **LinkedIn:** [WebinarNinja company posts](https://www.linkedin.com/company/webinarninjasoftware/posts/?feedView=documents&viewAsMember=true)
-- **Site:** [100+ Webinar Statistics to Increase Attendance & Conversions](https://webinarninja.com/blog/webinar-statistics/)
-- **Content types:** Blog posts, courses, webinar marketing guides.
+- **Role:** Former CMO at Gong, now Chief Evangelist | Author, *Courageous Marketing*
+- **Why chosen:** Udi ran Gong's marketing from near-zero to over $200M ARR, using webinars heavily as a demand gen and thought leadership channel ("Gong Labs" webinars). He represents the enterprise B2B SaaS practitioner who used webinars strategically to build category awareness, not just leads.
+- **LinkedIn:** [https://www.linkedin.com/in/udiledergor/](https://www.linkedin.com/in/udiledergor/)
+- **Site:** [https://www.gong.io/](https://www.gong.io/)
+- **Content types:** LinkedIn posts, Gong Labs webinars, blog posts, book content, thought leadership articles.
 
 **Best content to collect:**
-- [WebinarNinja Blog](https://webinarninja.com/blog/)
-- Webinar funnel and promotion guides _(collect from blog)_
+- [Between 2016 and 2023, I Helped Gong Grow (LinkedIn post)](https://www.linkedin.com/posts/udiledergor_between-2016-and-2023-i-helped-gong-grow-activity-7158143285604020225-Jpqx/)
+- [The Power of Being Intentionally Polarizing in Business (Gong blog)](https://www.gong.io/blog/the-power-of-being-intentionally-polarizing-in-business)
+- [Announcing Gong Engage (Gong webinar)](https://www.gong.io/resources/webinars/announcing-gong-engage)
 
 ---
 
@@ -98,11 +100,12 @@ Last verified: **2026-06-12**
 
 - **Role:** Founder, The Marketing Millennials. B2B marketer focused on social-first demand creation and modern marketing culture.
 - **Why chosen:** Daniel Murray sits at the intersection of social distribution and B2B marketing — highly relevant for webinar promotion on LinkedIn, short-form clips, and turning live events into ongoing content engines.
-- **YouTube:** [https://www.youtube.com/watch?v=Lp1UJt6iCt8](https://www.youtube.com/watch?v=Lp1UJt6iCt8)- **Site:** [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
+- **YouTube:** [https://www.youtube.com/watch?v=Lp1UJt6iCt8](https://www.youtube.com/watch?v=Lp1UJt6iCt8)
+- **Site:** [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/)
 - **Content types:** podcast, short-form video, social playbooks.
 
 **Best content to collect:**
-- [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/?utm_source=chatgpt.com)
+- [How Can We Get People To Show Up To Webinars?](https://themarketingmillennials.com/articles/2024-07-14/how-can-we-get-people-to-show-up-to-webinars/)
 - [YouTube — webinar attendance video](https://www.youtube.com/watch?v=Lp1UJt6iCt8)
 ---
 
@@ -127,38 +130,43 @@ Last verified: **2026-06-12**
 - **Role:** Co-founder, GTM Partners (formerly Terminus / PEAK). Author, speaker, and ABM / demand-gen strategist for B2B SaaS.
 - **Why chosen:** Sangram Vajre helped popularize account-based marketing and GTM strategy for SaaS. His work is directly relevant to webinar funnels aimed at target accounts, buying committees, and pipeline activation — not just top-of-funnel registrations.
 - **LinkedIn:** [Agentic Marketing: Inbound is Just the Beginning](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/)
-- **YouTube:** [https://www.youtube.com/watch?v=SYMU0aAocb0](https://www.youtube.com/watch?v=SYMU0aAocb0)- **Site:** [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
+- **YouTube:** [https://www.youtube.com/watch?v=SYMU0aAocb0](https://www.youtube.com/watch?v=SYMU0aAocb0)
+- **Site:** [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market)
 - **Content types:** LinkedIn posts, podcast, books, GTM frameworks.
 
 **Best content to collect:**
-- [Agentic Marketing: Inbound is Just the Beginning (LinkedIn article)](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/)- [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market?utm_source=chatgpt.com)
+- [Agentic Marketing: Inbound is Just the Beginning (LinkedIn article)](https://www.linkedin.com/pulse/agentic-marketing-inbound-just-beginning-sangram-vajre-a1tpe/)
+- [Software's Role in Solving a Broken Go-to-Market (G2 webinar)](https://sell.g2.com/resources/webinars/softwares-role-in-solving-a-broken-go-to-market)
 - [YouTube — GTM webinar video](https://www.youtube.com/watch?v=SYMU0aAocb0)
 ---
 
-### 9. Intent Amplify
+### 9. Melissa Kwan
 
-- **Role:** B2B pipeline activation firm specializing in demand intelligence, buying-group mapping, webinars, roundtables, and sponsored research for SaaS and enterprise tech vendors.
-- **Why chosen:** Intent Amplify is one of the few agencies that explicitly productizes webinars as part of a broader demand and pipeline system — not as a standalone tactic. Strong source for how agencies design webinar-led funnels for B2B SaaS clients.
-- **LinkedIn:** [https://www.linkedin.com/company/intent-amplify/](https://www.linkedin.com/company/intent-amplify/)
-- **Site:** [https://intentamplify.com/](https://intentamplify.com/)
-- **Content types:** Webinars, panels, sponsored research, case studies, demand intelligence content.
+- **Role:** Co-founder & CEO, eWebinar | Bootstrapped SaaS founder
+- **Why chosen:** Melissa is one of the most credible voices on webinar automation because she **built the product out of her own pain** — doing live demos daily for 5 years before creating eWebinar. She has direct experience running webinar-first GTM for a bootstrapped SaaS and reached $1M ARR using webinars as the core channel. Her content is deeply tactical.
+- **LinkedIn:** [https://www.linkedin.com/in/melissa-kwan/](https://www.linkedin.com/in/melissa-kwan/) _(verify link)_
+- **Site:** [https://www.ewebinar.com/](https://www.ewebinar.com/)
+- **Content types:** LinkedIn posts, blog posts, case studies, product-led webinar content, founder insights.
 
 **Best content to collect:**
-- [Intent Amplify — Webinars & Panels](https://intentamplify.com/)
-- Case studies and client results pages
+- [I Don't Do Any Live Demos — We Don't Have a Sales Team (LinkedIn post)](https://www.linkedin.com/posts/melissakwan_i-dont-do-any-live-demos-we-dont-have-activity-7419381959526621185-HDSp/)
+- [Webinar Hell: Why Your Webinars Fail](https://ewebinar.com/blog/webinar-hell)
+- [eWebinar Podcast: Marketing Strategies](https://ewebinar.com/podcast/episodes/0-marketing-strategies)
+- Case studies and customer success stories on eWebinar site
 ---
 
-### 10. Goldcast
+### 10. Mark Kilens
 
-- **Role:** B2B SaaS events and webinar platform built for marketer-led experiences, engagement, and pipeline impact.
-- **Why chosen:** Goldcast is purpose-built for B2B SaaS event-led growth — a strong modern complement to legacy webinar platforms. Useful for studying how SaaS companies design interactive webinars, post-event content repurposing, and event-to-pipeline workflows.
-- **LinkedIn:** [https://www.linkedin.com/company/goldcast/](https://www.linkedin.com/company/goldcast/)
-- **Site:** [https://www.goldcast.io/](https://www.goldcast.io/)
-- **Content types:** Blog posts, guides, customer stories, event-led growth playbooks.
+- **Role:** CEO & Co-founder, TACK | Previously CMO at Airmeet, VP Content at HubSpot, VP Marketing at Drift
+- **Why chosen:** Mark ran webinar programs at HubSpot and Drift at massive scale and now teaches "Event-led Growth" as one of three core GTM channels in his People-first GTM framework. He publishes daily on LinkedIn and explicitly frames webinars as a strategic pipeline lever, not just a lead gen tactic.
+- **LinkedIn:** [https://www.linkedin.com/posts/markkilens_its-quite-clear-that-were-at-a-major-inflection-activity-7051996607331901440-3Mx5/?originalSubdomain=me](https://www.linkedin.com/posts/markkilens_its-quite-clear-that-were-at-a-major-inflection-activity-7051996607331901440-3Mx5/?originalSubdomain=me)
+- **Site:** [https://www.tackgtm.com/](https://www.tackgtm.com/) _(TACK GTM platform)_
+- **Content types:** LinkedIn posts, webinar content, GTM frameworks, event-led growth playbooks.
 
 **Best content to collect:**
-- [Goldcast Blog](https://www.goldcast.io/blog)
-- Customer stories and event-led growth guides
+- [It's Quite Clear That We're at a Major Inflection (LinkedIn post)](https://www.linkedin.com/posts/markkilens_its-quite-clear-that-were-at-a-major-inflection-activity-7051996607331901440-3Mx5/?originalSubdomain=me)
+- [Crafting and Integrating a Go-to-Market Strategy (TACK webinar)](https://www.tackgtm.com/tack-webinars/crafting-and-integrating-a-go-to-market-strategy)
+- [Maximizing Content Through Event-led Growth (Minuttia transcript)](https://minuttia.com/webinars/maximizing-content-through-event-led-growth/)
 ---
 
 ## Coverage Map
@@ -167,23 +175,24 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 
 | Angle of the discipline | Experts |
 |-------------------------|---------|
-| Webinar platforms & infrastructure | ON24, LiveWebinar, WebinarNinja, Goldcast |
-| Benchmarks, ROI & funnel data | ON24, Goldcast |
-| Demand gen & strategy | Walker, Gerhardt, Murray, Vajre |
-| SaaS operator → practitioner | James |
+| Webinar platforms & infrastructure | LiveWebinar |
+| Systematic funnel methodology & email nurture | Porterfield |
+| Enterprise webinar & thought leadership strategy | Ledergor |
+| Demand gen & strategy | Walker, Gerhardt, Murray, Vajre, Kilens |
+| SaaS operator → practitioner | James, Kilens |
 | ABM & buying committee targeting | Vajre |
-| Agency-led pipeline activation | Intent Amplify, James |
-| Webinar promotion & social distribution | Murray, Gerhardt, James |
-| Event-led growth (B2B SaaS) | Goldcast, ON24 |
+| Agency-led pipeline activation | James |
+| Webinar promotion & social distribution | Murray, Gerhardt, James, Kilens |
+| Event-led growth (B2B SaaS) | Kilens |
 
 | Source type | Experts with material |
 |-------------|----------------------|
-| LinkedIn posts | WebinarNinja, Walker, James, Gerhardt, Vajre, Intent Amplify, Goldcast |
-| YouTube / video transcripts | LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Intent Amplify, Goldcast |
-| Blog posts & guides | ON24, LiveWebinar, WebinarNinja, Walker, Gerhardt, Murray, James, Intent Amplify, Goldcast |
-| Case studies & client results | Intent Amplify _(~1–2, approximate)_ |
+| LinkedIn posts | Ledergor, Walker, James, Gerhardt, Vajre, Kwan, Kilens |
+| YouTube / video transcripts | LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Kwan, Kilens |
+| Blog posts & guides | Porterfield, LiveWebinar, Ledergor, Walker, Gerhardt, Murray, James, Kwan, Kilens |
+| Case studies & client results | Kwan, James _(~2–3, approximate)_ |
 | Benchmark reports & research | — _(not yet collected)_ |
-| Webinars & live events | Intent Amplify _(~1, approximate)_ |
+| Webinars & live events | Kwan _(~1, approximate)_ |
 
 ---
 

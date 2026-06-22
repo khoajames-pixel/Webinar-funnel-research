@@ -17,7 +17,7 @@ Webinars remain one of the most efficient levers for growth in B2B SaaS companie
 I optimized for **signal over volume** — 10 strong voices, not 50 generic ones. Selection rules:
 
 - **Practitioners, not commentators** — every source actively runs webinars for themselves or paying B2B SaaS clients, with measurable results.
-- **Full coverage of the discipline** — platform leaders (ON24, LiveWebinar, WebinarNinja, Goldcast), demand-gen strategists (Chris Walker, Dave Gerhardt, Daniel Murray), SaaS operators turned educators (Ryan James, Sangram Vajre), and agencies specializing in webinar funnels (Intent Amplify).
+- **Full coverage of the discipline** — systematic funnel methodologies (Amy Porterfield), platform leaders (LiveWebinar), demand-gen strategists (Chris Walker, Dave Gerhardt, Daniel Murray, Udi Ledergor), SaaS operators turned educators (Ryan James, Sangram Vajre, Melissa Kwan), and GTM strategists (Mark Kilens).
 - **Mixed source types** — LinkedIn posts, YouTube transcripts, and SaaS platform case studies.
 
 Every expert was verified live (real profile, currently active) on **2026-06-12**.  
@@ -29,18 +29,17 @@ Counts reflect items linked in **[research/sources.md](./research/sources.md)** 
 
 | Expert | LinkedIn posts (webinar-focused) | YouTube / video transcripts (webinar-focused) | Blog / site articles (webinar-focused) |
 |--------|----------------------------------|-----------------------------------------------|----------------------------------------|
-| ON24 | — | — | 1 — B2B content marketing guide |
+| Amy Porterfield | 1 — Okay, I'll Say It: The Make Money While You Sleep Dream is Dead | 1 — Webinar conversion podcast episode | 1 — Webinar Funnel Transcript |
 | LiveWebinar | — | 1 — SaaS webinar funnel video | 1 — actionable SaaS webinar funnel guide |
-| WebinarNinja | 1 — company posts feed | — | 1 — webinar statistics article |
+| Udi Ledergor (Gong) | 1 — Between 2016 and 2023, I Helped Gong Grow | 1 — Announcing Gong Engage | 1 — The Power of Being Intentionally Polarizing in Business |
 | Chris Walker (Refine Labs) | 1 — Pipeline Sources post | 1 — Refine Labs video | 1 — future of B2B marketing article |
 | Dave Gerhardt (Exit Five) | 1 — Anti-Social Buyer demand gen post | 1 — Merging Funnels, Targeting Multiple Personas, and Restructuring Your Marketing Team | 1 — Creating Webinars People Actually Want to Attend (podcast) |
 | Daniel Murray | — | 1 — webinar attendance video | 1 — How Can We Get People To Show Up To Webinars? |
 | Ryan James (Rocket SaaS) | 1 — webinar funnel series post | 1 — SaaS marketing playbook video | 1 — SaaS vs traditional marketing article |
 | Sangram Vajre (GTM Partners) | 1 — Agentic Marketing: Inbound is Just the Beginning | 1 — GTM webinar video | 1 — Software's Role in Solving a Broken Go-to-Market (G2 webinar) |
-| Intent Amplify | ~1 — webinar campaign & pipeline post | ~1 — client case study webinar recording | ~1–2 — demand intel reports & case studies |
-| Goldcast | ~1–2 — event-led growth & webinar posts | ~1 — event-led growth podcast episode | ~1 — SaaS webinar playbook guide |
-
-**Totals:** ~7–8 LinkedIn items · ~7–8 YouTube / video items · ~9–10 blog / site articles
+| Melissa Kwan (eWebinar) | 1 — I Don't Do Any Live Demos — We Don't Have a Sales Team | 1 — Maximizing Content Through Event-led Growth (podcast transcript) | 1 — Webinar Hell |
+| Mark Kilens (TACK) | 1 — It's Quite Clear That We're at a Major Inflection | 1 — Maximizing Content Through Event-led Growth (webinar transcript) | 1 — Crafting and Integrating a Go-to-Market Strategy |
+**Totals:** 8 LinkedIn items · 9 YouTube / video items · 10 blog / site articles
 
 Plus `/research/other/`: case studies, benchmark reports, and collection-method notes _(folders ready; no files saved yet)_.
 
