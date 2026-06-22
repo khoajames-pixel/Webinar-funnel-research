@@ -39,6 +39,7 @@ Counts reflect items linked in **[research/sources.md](./research/sources.md)** 
 | Sangram Vajre (GTM Partners) | 1 — Agentic Marketing: Inbound is Just the Beginning | 1 — GTM webinar video | 1 — Software's Role in Solving a Broken Go-to-Market (G2 webinar) |
 | Melissa Kwan (eWebinar) | 1 — I Don't Do Any Live Demos — We Don't Have a Sales Team | 1 — Maximizing Content Through Event-led Growth (podcast transcript) | 1 — Webinar Hell |
 | Mark Kilens (TACK) | 1 — It's Quite Clear That We're at a Major Inflection | 1 — Maximizing Content Through Event-led Growth (webinar transcript) | 1 — Crafting and Integrating a Go-to-Market Strategy |
+
 **Totals:** 8 LinkedIn items · 9 YouTube / video items · 10 blog / site articles
 
 Plus `/research/other/`: case studies, benchmark reports, and collection-method notes _(folders ready; no files saved yet)_.
