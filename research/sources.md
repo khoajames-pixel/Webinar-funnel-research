@@ -8,7 +8,7 @@ Last verified: **2026-06-12**
 | # | Name / Company | Category | Primary Source Type | Status |
 |---|----------------|----------|---------------------|--------|
 | 1 | Amy Porterfield | Founder / educator | Podcast, blog, courses, email sequences | Listed |
-| 2 | LiveWebinar | Platform | Guides, blog | Listed |
+| 2 | Andrei Zinkevich / Full Funnel | B2B marketing strategist | LinkedIn, blog, podcast | Listed |
 | 3 | Udi Ledergor / Gong | B2B SaaS operator / evangelist | LinkedIn, blog, webinars, book | Listed |
 | 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
 | 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, YouTube, podcast, newsletter | Listed |
@@ -37,17 +37,18 @@ Last verified: **2026-06-12**
 
 ---
 
-### 2. LiveWebinar
+### 2. Andrei Zinkevich / Full Funnel
 
-- **Role:** Webinar platform focused on live events, automation, and conversion for marketers and SaaS teams.
-- **Why chosen:** Practical, operator-friendly guidance on registration pages, reminders, follow-up sequences, and webinar promotion — useful for teams building a funnel from zero without enterprise complexity.
-- **YouTube:** [https://www.youtube.com/watch?v=ThdTegUyhzg](https://www.youtube.com/watch?v=ThdTegUyhzg)
-- **Site:** [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
-- **Content types:** Blog guides, tutorials, product-led funnel examples, video.
+- **Role:** Founder, Full Funnel | Host, Full Funnel B2B Marketing Show podcast
+- **Why chosen:** Andrei is a B2B marketing strategist focused on marketing and sales alignment, which is critical for webinar funnel success and demand generation. His content bridges the gap between webinar strategy and revenue outcomes.
+- **LinkedIn:** [https://www.linkedin.com/in/azinkevich/](https://www.linkedin.com/in/azinkevich/)
+- **Site:** [https://www.fullfunnel.io/](https://www.fullfunnel.io/)
+- **Content types:** LinkedIn posts, blog posts, podcast episodes.
 
 **Best content to collect:**
-- [Actionable Guide to SaaS Webinar Funnel Marketing](https://www.livewebinar.com/blog/webinar-marketing/actionable-guide-to-saas-webinar-funnel-marketing)
-- [YouTube — webinar funnel video](https://www.youtube.com/watch?v=ThdTegUyhzg)
+- [B2B Marketing Strategy (LinkedIn post)](https://www.linkedin.com/posts/azinkevich_b2bmarketing-strategy-activity-6966377957284016128-D504/)
+- [The Ultimate Guide to Marketing and Sales Alignment in B2B Companies](https://fullfunnel.io/the-ultimate-guide-to-marketing-and-sales-alignment-in-b2b-companies/)
+- [Full Funnel B2B Marketing Show (Podchaser)](https://www.podchaser.com/podcasts/full-funnel-b2b-marketing-show-1101000)
 ---
 
 ### 3. Udi Ledergor / Gong
@@ -175,7 +176,7 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 
 | Angle of the discipline | Experts |
 |-------------------------|---------|
-| Webinar platforms & infrastructure | LiveWebinar |
+| Marketing and sales alignment | Zinkevich |
 | Systematic funnel methodology & email nurture | Porterfield |
 | Enterprise webinar & thought leadership strategy | Ledergor |
 | Demand gen & strategy | Walker, Gerhardt, Murray, Vajre, Kilens |
@@ -187,17 +188,15 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 
 | Source type | Experts with material |
 |-------------|----------------------|
-| LinkedIn posts | Ledergor, Walker, James, Gerhardt, Vajre, Kwan, Kilens |
-| YouTube / video transcripts | LiveWebinar, Walker, James, Gerhardt, Murray, Vajre, Kwan, Kilens |
-| Blog posts & guides | Porterfield, LiveWebinar, Ledergor, Walker, Gerhardt, Murray, James, Kwan, Kilens |
+| LinkedIn posts | Ledergor, Walker, James, Gerhardt, Vajre, Kwan, Kilens, Zinkevich |
+| YouTube / video transcripts | Walker, James, Gerhardt, Murray, Vajre, Kwan, Kilens |
+| Blog posts & guides | Porterfield, Ledergor, Walker, Gerhardt, Murray, James, Kwan, Kilens, Zinkevich |
 | Case studies & client results | Kwan, James _(~2–3, approximate)_ |
-| Benchmark reports & research | — _(not yet collected)_ |
 | Webinars & live events | Kwan _(~1, approximate)_ |
 
 ---
 
 ## Notes
 
-- Save collected items into the matching folder under `research/`.
 - For individuals, prioritize primary content (LinkedIn, YouTube, blog) over third-party summaries.
 - Re-verify all links before final submission.
