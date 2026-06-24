@@ -40,7 +40,7 @@ Counts reflect items linked in **[research/sources.md](./research/sources.md)** 
 | Melissa Kwan (eWebinar) | 1 — I Don't Do Any Live Demos — We Don't Have a Sales Team | 1 — Maximizing Content Through Event-led Growth (podcast transcript) | 1 — Webinar Hell |
 | Mark Kilens (TACK) | 1 — It's Quite Clear That We're at a Major Inflection | 1 — Maximizing Content Through Event-led Growth (webinar transcript) | 1 — Crafting and Integrating a Go-to-Market Strategy |
 
-**Totals:** 8 LinkedIn items · 9 YouTube / video items · 10 blog / site articles
+**Totals:** 8 LinkedIn items · 10 YouTube / video items · 10 blog / site articles
 
 ## Collection Method
 
