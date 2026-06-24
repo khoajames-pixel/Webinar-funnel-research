@@ -8,7 +8,7 @@ Last verified: **2026-06-12**
 | # | Name / Company | Category | Primary Source Type | Status |
 |---|----------------|----------|---------------------|--------|
 | 1 | Amy Porterfield | Founder / educator | Podcast, blog, courses, email sequences | Listed |
-| 2 | Andrei Zinkevich / Full Funnel | B2B marketing strategist | LinkedIn, blog, podcast | Listed |
+| 2 | Andrei Zinkevich / Full Funnel | B2B marketing strategist | LinkedIn, blog, podcast, YouTube | Listed |
 | 3 | Udi Ledergor / Gong | B2B SaaS operator / evangelist | LinkedIn, blog, webinars, book | Listed |
 | 4 | Chris Walker | Demand-gen strategist | LinkedIn, podcast, blog | Listed |
 | 5 | Dave Gerhardt | Demand-gen strategist | LinkedIn, YouTube, podcast, newsletter | Listed |
@@ -43,12 +43,13 @@ Last verified: **2026-06-12**
 - **Why chosen:** Andrei is a B2B marketing strategist focused on marketing and sales alignment, which is critical for webinar funnel success and demand generation. His content bridges the gap between webinar strategy and revenue outcomes.
 - **LinkedIn:** [https://www.linkedin.com/in/azinkevich/](https://www.linkedin.com/in/azinkevich/)
 - **Site:** [https://www.fullfunnel.io/](https://www.fullfunnel.io/)
-- **Content types:** LinkedIn posts, blog posts, podcast episodes.
+- **Content types:** LinkedIn posts, blog posts, podcast episodes, YouTube / video transcripts.
 
 **Best content to collect:**
 - [B2B Marketing Strategy (LinkedIn post)](https://www.linkedin.com/posts/azinkevich_b2bmarketing-strategy-activity-6966377957284016128-D504/)
 - [The Ultimate Guide to Marketing and Sales Alignment in B2B Companies](https://fullfunnel.io/the-ultimate-guide-to-marketing-and-sales-alignment-in-b2b-companies/)
 - [Full Funnel B2B Marketing Show (Podchaser)](https://www.podchaser.com/podcasts/full-funnel-b2b-marketing-show-1101000)
+- [YouTube — Marketing and Sales Alignment Video](https://www.youtube.com/watch?v=FJdwXBLtCbw)
 ---
 
 ### 3. Udi Ledergor / Gong
@@ -189,7 +190,7 @@ Overall review of how the 10 sources cover the webinar funnel discipline and ava
 | Source type | Experts with material |
 |-------------|----------------------|
 | LinkedIn posts | Ledergor, Walker, James, Gerhardt, Vajre, Kwan, Kilens, Zinkevich |
-| YouTube / video transcripts | Walker, James, Gerhardt, Murray, Vajre, Kwan, Kilens |
+| YouTube / video transcripts | Walker, James, Gerhardt, Murray, Vajre, Kwan, Kilens, Zinkevich |
 | Blog posts & guides | Porterfield, Ledergor, Walker, Gerhardt, Murray, James, Kwan, Kilens, Zinkevich |
 | Case studies & client results | Kwan, James _(~2–3, approximate)_ |
 | Webinars & live events | Kwan _(~1, approximate)_ |
